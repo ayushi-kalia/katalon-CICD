@@ -30,5 +30,3 @@ WebUI.click(findTestObject('Object Repository/login/Page_IBEX Payroll - Login/in
 
 WebUI.click(findTestObject('Object Repository/login/Page_IBEX Payroll - Login/input_Remember me_Input.Button'))
 
-WebUI.closeBrowser()
-
